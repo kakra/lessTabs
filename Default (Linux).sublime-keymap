@@ -6,16 +6,16 @@
     ,
     //Think of it as "u+p" Project Unrelated
     {  
-        "keys": ["ctrl+alt+u+p"], "command": "less_tabs_close_project_unrelated"  
+        "keys": ["ctrl+alt+u","p"], "command": "less_tabs_close_project_unrelated"  
     } 
     ,
     //Think of it as "u+t" Tab Unrelated
     {  
-        "keys": ["ctrl+alt+u+t"], "command": "less_tabs_close_file_dir_unrelated"  
+        "keys": ["ctrl+alt+u","t"], "command": "less_tabs_close_file_dir_unrelated"  
     } 
     ,
     //Think of it as "u+d" Directory Unrelated
     {  
-        "keys": ["ctrl+alt+u+d"], "command": "less_tabs_close_dir_unrelated"  
+        "keys": ["ctrl+alt+u","d"], "command": "less_tabs_close_dir_unrelated"  
     }  
 ]
